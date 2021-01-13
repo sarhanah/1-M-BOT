@@ -1,0 +1,39 @@
+case 'bc':
+
+				if (isBanned) return reply(mess.only.benned)    				if (!isUser) return reply(mess.only.userB)
+
+				if (!isPublic) return reply(mess.only.public)
+
+					if (!isOwner) return reply('Kamu siapa?')
+
+					if (args.length < 1) return reply('.......')
+
+					anu = await client.chats.all()
+
+					if (isMedia && !mek.message.videoMessage || isQuotedImage) {
+
+						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
+
+						buffer = await client.downloadMediaMessage(encmedia)
+
+						for (let _ of anu) {
+
+							client.sendMessage(_.jid, buffer, image, {caption: `[ Nakano Miku Broadcast ]\n\n${body.slice(4)}`})
+
+						}
+
+						reply('Suksess broadcast')
+
+					} else {
+
+						for (let _ of anu) {
+
+							sendMess(_.jid, `[ *Nakano Miku Broadcast* ]\n\n${body.slice(4)}`)
+
+						}
+
+						reply('Suksess broadcast')
+
+					}
+
+					break
