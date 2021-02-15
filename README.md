@@ -4,6 +4,48 @@
 
 XXX 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿 XXX
 
+<p a<p alignlign="center">
+
+<a href="#"><img title="termux-whatsapp-bot" src="https://img.shields.io/badge/-TERMUX--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/NazwaS"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NAZWAS-orange?style=for-the-badge&logo=github"></a>
+
+</p>
+
+<p align="center">
+
+    <a href="https://github.com/sarhanah/followers"><img title="Followers" src="https://img.shields.io/github/followers/sarhanah?style=flat-square"></a>
+
+    <a href="https://github.com/sarhanah/1-M-BOT/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/sarhanah/1-M-BOT?style=flat-square"></a>
+
+    <a href="https://github.com/sarhanah/1-M-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sarhanah/1-M-BOT?style=flat-square"></a>
+
+    <a href="https://github.com/sarhanah/1-M-BOT/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/sarhanah/1-M-BOT?style=flat-square"></a>
+
+    <a href="#"><img title="maintened" src="https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat"></a>
+
+    <a href="#"><img title="repo size" src="https://img.shields.io/github/repo-size/sarhanah/1-M-BOT?style=flat-square"></a>
+
+    <a href="https://www.codefactor.io/repository/github/nazwas/termux-whatsapp-bot"><img src="https://www.codefactor.io/repository/github/nazwas/termux-whatsapp-bot/badge" alt="CodeFactor" /></a>
+
+</p><p align="center">
+
+<a href="#"><img title="termux-whatsapp-bot" src="https://img.shields.io/badge/-TERMUX--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sarhanah"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NAZWAS-orange?style=for-the-badge&logo=github"></a>
+
+</p>
+
+<p align="center">
+
 XXX WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 
