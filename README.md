@@ -40,10 +40,6 @@ XXX 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕�
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 
 </p>
-
-
-
-
 XXX WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 
@@ -93,4 +89,8 @@ Ket: Aktiv 24 jam
 
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+
+
+
 
