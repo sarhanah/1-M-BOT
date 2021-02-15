@@ -45,7 +45,7 @@ Ket: Aktiv 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 * [`WhatsApp`] (http://wa.me/6285719448074)
-* [`Youtube`]  (https://youtube.com/channel/UCj1rpeSfv97hPte6bSdZvjQ)
+* [`Youtube`](https://youtube.com/channel/UCj1rpeSfv97hPte6bSdZvjQ)
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
