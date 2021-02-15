@@ -11,13 +11,13 @@ XXX 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕�
 
 <p align="center">
 
-<a href="#"><img title="XPTNNBOT" src="https://img.shields.io/badge/XPTNNBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="sarhanah" src="https://img.shields.io/badge/sarhanah-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/XP-TN"><img title="Author" src="https://img.shields.io/badge/Author-XP-TN-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sarhanah"><img title="Author" src="https://img.shields.io/badge/Author-sarhanah-red.svg?style=for-the-badge&logo=github"></a>
 
 </p>
 
