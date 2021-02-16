@@ -49,7 +49,12 @@ APIKEY:
 |       ✅       | ARTI NAMA                         |
 |       ✅       | SHOLAT                            |
 |       ✅       | QURAN                             |
-|       ✅       | KAMING SUN                        |
+|       ✅       | KOMING SUN                        |
+| :-----------: | :--------------------------------:  |
+|       ❌       | BROADCAST                         |
+|       ❌       | BAN (@USER)                       |
+|       ❌       | OWNER                             |
+| :-----------: | :--------------------------------:  |
 
 key : ✅ : aktif
 
