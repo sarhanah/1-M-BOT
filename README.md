@@ -54,7 +54,7 @@ key : ✅ : aktif
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 
-* [`Donasi DANA'](085719448074) <PUTRA>
+* [`Donasi DANA`](085719448074) <PUTRA>
 * [`Gopay`](085719448074) <PUTRA>
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
