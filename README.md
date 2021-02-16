@@ -8,9 +8,13 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 </p>
 <p align="center">
 
-<a href="#"><img title="ðŸ‘¾XP-TNðŸ‘¾" src="https://img.shields.io/badge/XP-TN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="PUTRA" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
+
+
+
+
 
 ##PUNYA PUTRA × ARIL
 WARN!:
