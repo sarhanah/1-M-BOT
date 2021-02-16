@@ -4,10 +4,11 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ##PUNYA PUTRA × BEASTARS
 WARN!:
 Reupload+recode? sertakan name creator + creedit ya bgsd!!✔️
+
 ##EROR? HUBUNGI NO DI BAWAH INI:
 * [`Whatsapp`](085719448074)
 
-APIKEY?:
+APIKEY:
 * [`Vhtear`](https://Vhtear.com)
 * [`Barbar`](https://Barbarkey.com)
 * [`Tobz`](https://Tobz.herokuapp.com)
