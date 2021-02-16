@@ -1,7 +1,7 @@
-## KNTNBOTWA
+## ARIL GANS:V
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
-##PUNYA PUTRA × BEASTARS
+##PUNYA PUTRA × ARIL
 WARN!:
 Reupload+recode? sertakan name creator + creedit ya bgsd!!✔️
 
