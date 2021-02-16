@@ -1,11 +1,16 @@
 ## KNTNBOTWA
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
+##PUNYA PUTRA × BEASTARS
+WARN!:
+Reupload+recode? sertakan name creator + creedit ya bgsd!!✔️
+##EROR? HUBUNGI NO DI BAWAH INI:
+* [`Whatsapp`](085719448074)
 
-
-
-
-
+APIKEY?:
+* [`Vhtear`](https://Vhtear.com)
+* [`Barbar`](https://Barbarkey.com)
+* [`Tobz`](https://Tobz.herokuapp.com)
 
 ## CARA INSTALL
 # TERMUX
@@ -45,13 +50,24 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | QURAN                             |
 |       ✅       | KAMING SUN                        |
 
-ket : ✅ : aktif
+key : ✅ : aktif
+
+## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+
+* [`Donasi DANA'](085719448074) <PUTRA>
+* [`Gopay`](085719448074) <PUTRA>
+## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+
+* [`WhatsApp`](http://wa.me/6285719448074)
+
+* [`Youtube`](https://youtube.com/channel/UCj1rpeSfv97hPte6bSdZvjQ)
 
 
-
-
-## THANKS TO
+## THANKS TO❤️
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`Ramlan`](https://github.com/Ramlan666)
+* [`Mhankbarbar`](https://github.com/MhankBarBar)
+* [`TobZ`](https://github.com/TobyG74)
 
-## DONASI
-* Gopay : 081271699856 Reuz
+## INFORMATION
+* SCRIPT INI FREE!! TIDAK UNTUK DI PERJUAL BELIKAN!
