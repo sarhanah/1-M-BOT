@@ -18,16 +18,20 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 <p align="center">
 <a href="https://github.com/sarhanah"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PUTRA-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
-
 <p align='center'>
-
    <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-
    <a href="https://instagram.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-
    <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
-
 </P>
+
+
+
+
+
+
+
+
+
 
 
 
